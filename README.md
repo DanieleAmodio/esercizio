@@ -1,6 +1,6 @@
-# React + Vite
+# Prima APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Questo Template e stato creato con REACT.
 
 Currently, two official plugins are available:
 
